@@ -52,8 +52,8 @@
 		<!-- com.google.dilmacoin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>dilmacoinj</artifactId>
-			<version>0.12-SNAPSHOT</version>
+			<artifactId>bitcoinj</artifactId>
+			<version>0.11.1</version>
 		</dependency>
 
 		<!-- de.schildbach.wallet.integration.android.* -->
