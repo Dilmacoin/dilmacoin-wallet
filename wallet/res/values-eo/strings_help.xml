@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			La supra maldekstra parto de la ekrano montras vian elektitan Dogemonadreson, ke aliaj homoj bezonas scii por sendi al vi Dogemonojn.
+			La supra maldekstra parto de la ekrano montras vian elektitan Dilmamonadreson, ke aliaj homoj bezonas scii por sendi al vi Dilmamonojn.
 			Frapetu por ŝanĝi la adreson.
 		</p>
 		<p>
-			La QR kodo dekstre enhavas vian dogemonadreson kaj povas esti uzata por skanado de alia partio.
+			La QR kodo dekstre enhavas vian dilmamonadreson kaj povas esti uzata por skanado de alia partio.
 			Frapetu sur la QR kodo por obteni pli grandan version.
 		</p>
 		<p>
@@ -31,15 +31,15 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Uzante ĉi tiun dialogon, vi povas peti monon de alia persono (kiu devus jam esti instalita DogemonMonujo).
+			Uzante ĉi tiun dialogon, vi povas peti monon de alia persono (kiu devus jam esti instalita DilmamonMonujo).
 		</p>
 		<p>
-			Unue, vi povas eniri kvanton de Dogemonj por peti.
+			Unue, vi povas eniri kvanton de Dilmamonj por peti.
 		</p>
 		<p>
 			Tiam, vi devas havi la generitan QR-kodon skanitan de la alia persono. 
 			Aŭ, vi povas sendi vian peton al fora persono kun la "kunhavigi" butonon en la agujo.
-			La alia persono devos klaki la Dogemonon URLon.
+			La alia persono devos klaki la Dilmamonon URLon.
 		</p>
 		<p>
 			Ĉiaokaze, la alia persono estos prezentita dialogo por sendi monon kun ĉiuj kampoj jam plenigis.
@@ -51,15 +51,15 @@
 <![CDATA[
 		<p>
 			Vi komencis la procezon de sendado de mono.
-			Vi venis ĉi tien tra la ĉefa ekrano aŭ klakante sur Dogemona URL en via poŝtelefonretumilo.
+			Vi venis ĉi tien tra la ĉefa ekrano aŭ klakante sur Dilmamona URL en via poŝtelefonretumilo.
 		</p>
 		<p>
-			Unue, vi enigi la Dogemonadreson por pagi al.
+			Unue, vi enigi la Dilmamonadreson por pagi al.
 			La adreso aŭtomate kompletigos el konataj enigoj en via adreslibro.
-			Vi povas ankaŭ skani QR-kodojn kun Dogemonadresoj aŭ Dogemonaj petoj per klaki la QR-butonon en la agujo.
+			Vi povas ankaŭ skani QR-kodojn kun Dilmamonadresoj aŭ Dilmamonaj petoj per klaki la QR-butonon en la agujo.
 		</p>
 		<p>
-			Tuj poste, vi povas vidi kiom da Dogemonoj vi povas elspezi nune.
+			Tuj poste, vi povas vidi kiom da Dilmamonoj vi povas elspezi nune.
 			Ajna diferenco al la saldo de la ĉefa ekrano estas ankoraŭ nekonfirmitaj kaj povas tial ankoraŭ ne elspezi.
 		</p>
 		<p>
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			Vi povas enigi pagon senkonekte.
-			Ĝi senditos ĉe rekomenco de DogemonMonujo.
+			Ĝi senditos ĉe rekomenco de DilmamonMonujo.
 			Se vi volas pagon faritan, kiel rapide, kiel eblece, estu certe, ke vi estas bon konekita (ezkemple, WLAN).
 		</p>
 		<p>
@@ -83,8 +83,8 @@
 			<b>Gravaj sekurecaj notoj:</b>
 		</p>
 		<p>
-			Dogemonoj estas stokitaj sur l\'aparato.
-			<b>Se vi perdas ĝin, vi perdos viajn Dogemonojn.</b>
+			Dilmamonoj estas stokitaj sur l\'aparato.
+			<b>Se vi perdas ĝin, vi perdos viajn Dilmamonojn.</b>
 		</p>
 		<p>
 			Tio signifas ke vi bezonas <b>savkopii vian monujon</b>!
@@ -92,12 +92,12 @@
 			Konservu vian savkopion sekuran kaj memoru la pasvorton.
 		</p>
 		<p>
-			<b>Antaŭ malinstalado</b> (aŭ purigado de aplikaĵaj datumoj/purigi vian aparaton), <b>transdonu viajn Dogemonojn al alia monujo</b>.
-			La restoj da Dogemonoj perdiĝos.
+			<b>Antaŭ malinstalado</b> (aŭ purigado de aplikaĵaj datumoj/purigi vian aparaton), <b>transdonu viajn Dilmamonojn al alia monujo</b>.
+			La restoj da Dilmamonoj perdiĝos.
 		</p>
 		<p>
 			<b>Pagoj estas neinversigeblaj</b>.
-			Se vi sendas viajn Dogemonojn en l\'abismon, estas preskaŭ ne ebli rehavi ilin.
+			Se vi sendas viajn Dilmamonojn en l\'abismon, estas preskaŭ ne ebli rehavi ilin.
 		</p>
 		<p>
 			<b>Konservu vian moveblan aparaton sekuran!</b>

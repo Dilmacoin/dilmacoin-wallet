@@ -3,7 +3,7 @@
 功能:
 
 • 不需註冊，不需登記網路服務或是任何雲端服務! 這個錢包App完全去中心化並利用點對點節點來服務。
-• 可以顯示不同狗貨幣單位 DOGE 與 mDOGE。
+• 可以顯示不同狗貨幣單位 HUE 與 mHUE。
 • 自動轉換各國貨幣。
 • 可以藉由藍芽/NFC/QR二維條碼或是狗貨幣網址來接收或是支付狗貨幣。
 • 提供地址簿供常用狗貨幣地址使用。
@@ -12,12 +12,12 @@
 • 狗貨幣餘額桌面小工具。
 
 關於狗貨幣你可以查閱
-http://dogecoin.org
+http://dilmacoin.org
 
-如果要貢獻幫助給 Dogecoin Wallet，請到專案網頁查閱
-https://github.com/langerhans/dogecoin-wallet-new
+如果要貢獻幫助給 Dilmacoin Wallet，請到專案網頁查閱
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

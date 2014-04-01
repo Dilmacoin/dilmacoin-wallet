@@ -7,13 +7,21 @@
 	<artifactId>sample-integration-android</artifactId>
 	<packaging>apk</packaging>
 	<version>1.0</version>
-	<name>Sample for Dogecoin Integration for Android</name>
+	<name>Sample for Dilmacoin Integration for Android</name>
 
 	<parent>
-		<groupId>de.langerhans.wallet</groupId>
+		<groupId>de.schildbach.wallet</groupId>
 		<artifactId>base</artifactId>
 		<version>1</version>
 	</parent>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
 
 	<dependencies>
 
@@ -27,7 +35,7 @@
 
 		<!-- de.schildbach.wallet.integration.android.* -->
 		<dependency>
-			<groupId>de.langerhans.wallet</groupId>
+			<groupId>de.schildbach.wallet</groupId>
 			<artifactId>integration-android</artifactId>
 			<version>2.0</version>
 		</dependency>
@@ -35,7 +43,7 @@
 		<!-- com.google.bitcoin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>dogecoinj</artifactId>
+			<artifactId>dilmacoinj</artifactId>
 			<version>0.11.1</version>
 		</dependency>
 

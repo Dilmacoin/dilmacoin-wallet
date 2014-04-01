@@ -1,21 +1,21 @@
-Tato aplikace je peněženka s Dogecoiny pro systém Android. Můžete posílat Dogecoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+Tato aplikace je peněženka s Dilmacoiny pro systém Android. Můžete posílat Dilmacoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
 
 VLASTNOSTI:
 
-• Zobrazení zůstatku peněženky v Dogecoinech a několika jiných měnách.
-• Odesílání a přijímání Dogecoinů pomocí NFC, QR-kódů, nebo Dogecoin adres.
+• Zobrazení zůstatku peněženky v Dilmacoinech a několika jiných měnách.
+• Odesílání a přijímání Dilmacoinů pomocí NFC, QR-kódů, nebo Dilmacoin adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
-• Oznamování v liště při synchronizaci a při přijetí Dogecoinů.
+• Oznamování v liště při synchronizaci a při přijetí Dilmacoinů.
 • Widget s celkovým zůstatkem.
 
-Více informací o Dogecoinech
-http://dogecoin.org
+Více informací o Dilmacoinech
+http://dilmacoin.org
 
-Pokud chcete přispět do projektu Dogecoin Wallet, naleznete jej na adrese
-https://github.com/langerhans/dogecoin-wallet-new
+Pokud chcete přispět do projektu Dilmacoin Wallet, naleznete jej na adrese
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

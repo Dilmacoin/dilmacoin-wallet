@@ -1,21 +1,21 @@
-Dit is een standalone Dogecoin Wallet voor uw Android apparaat. U kan direct Dogecoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Dilmacoin Wallet voor uw Android apparaat. U kan direct Dilmacoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Dogecoin en verschillende andere valuta.
-• Verzenden en ontvangen van Dogecoin via NFC, QR-codes of Dogecoin URLs.
-• Adresboek voor veelgebruikte Dogecoin adressen.
+• Weergeven van het wallet saldo in Dilmacoin en verschillende andere valuta.
+• Verzenden en ontvangen van Dilmacoin via NFC, QR-codes of Dilmacoin URLs.
+• Adresboek voor veelgebruikte Dilmacoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Dogecoin connectiviteit en ontvangen dogecoins.
-• Widget voor Dogecoin saldo.
+• Systeem melding over Dilmacoin connectiviteit en ontvangen dilmacoins.
+• Widget voor Dilmacoin saldo.
 
-Voor meer informatie over Dogecoin kunt u terecht op
-http://dogecoin.org
+Voor meer informatie over Dilmacoin kunt u terecht op
+http://dilmacoin.org
 
-Als u een bijdrage wil leveren aan Dogecoin Wallet, het project is te vinden op
-https://github.com/langerhans/dogecoin-wallet-new
+Als u een bijdrage wil leveren aan Dilmacoin Wallet, het project is te vinden op
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

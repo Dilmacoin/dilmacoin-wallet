@@ -1,23 +1,23 @@
-Ten tus Dogecoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando un código QR. Como comerciante, recibes los pagos de forma fiable e instantáneamente. Dogecoin Wallet es la primera Dogecoin app para movil, e incluso la mas segura!
+Ten tus Dilmacoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando un código QR. Como comerciante, recibes los pagos de forma fiable e instantáneamente. Dilmacoin Wallet es la primera Dilmacoin app para movil, e incluso la mas segura!
 
 CARACTERÍSTICAS:
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
-• Muestra la cantidad de Dogecoins en DOGE y mDOGE
+• Muestra la cantidad de Dilmacoins en HUE y mHUE
 • Conversión a divisas nacionales.
-• Envío y recepción de dogecoins vía NFC, códigos QR o URL de Dogecoin.
-• Libreta de direcciones para guardar las direcciones Dogecoin más utilizadas.
+• Envío y recepción de dilmacoins vía NFC, códigos QR o URL de Dilmacoin.
+• Libreta de direcciones para guardar las direcciones Dilmacoin más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
 • Notificación al recibir monedas.
-• Widget para el saldo de dogecoins.
+• Widget para el saldo de dilmacoins.
 
-Puedes descubrir más sobre Dogecoin en
-http://dogecoin.org
+Puedes descubrir más sobre Dilmacoin en
+http://dilmacoin.org
 
-Si quieres contribuir a Dogecoin Wallet, el proyecto se encuentra en
-https://github.com/langerhans/dogecoin-wallet-new
+Si quieres contribuir a Dilmacoin Wallet, el proyecto se encuentra en
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

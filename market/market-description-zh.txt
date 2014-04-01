@@ -11,10 +11,10 @@
 • 狗狗币网络连接状态显示以及交易通知。
 • 狗狗币余额的程序插件。
 
-更多关于狗狗币的信息请点击：http://dogecoin.org
-如果你想赞助狗狗币钱包软件开发项目，该项目位于：https://github.com/langerhans/dogecoin-wallet-new
+更多关于狗狗币的信息请点击：http://dilmacoin.org
+如果你想赞助狗狗币钱包软件开发项目，该项目位于：https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

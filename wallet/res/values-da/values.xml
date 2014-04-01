@@ -2,10 +2,10 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DOGE, 8 decimaler</item>
-		<item>DOGE, 6 decimaler</item>
-		<item>DOGE, 4 decimaler</item>
-		<item>mDOGE, 2 decimaler</item>
+		<item>HUE, 8 decimaler</item>
+		<item>HUE, 6 decimaler</item>
+		<item>HUE, 4 decimaler</item>
+		<item>mHUE, 2 decimaler</item>
 	</string-array>
 
 </resources>

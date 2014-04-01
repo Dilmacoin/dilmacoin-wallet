@@ -7,10 +7,10 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>1.07</version>
-	<name>Dogecoin Wallet</name>
+	<name>Dilmacoin Wallet</name>
 
 	<parent>
-		<groupId>de.langerhans.wallet</groupId>
+		<groupId>de.schildbach.wallet</groupId>
 		<artifactId>base</artifactId>
 		<version>1</version>
 	</parent>
@@ -49,16 +49,16 @@
 			<type>apklib</type>
 		</dependency>
 
-		<!-- com.google.dogecoin.* -->
+		<!-- com.google.dilmacoin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>dogecoinj</artifactId>
+			<artifactId>dilmacoinj</artifactId>
 			<version>0.12-SNAPSHOT</version>
 		</dependency>
 
 		<!-- de.schildbach.wallet.integration.android.* -->
 		<dependency>
-			<groupId>de.langerhans.wallet</groupId>
+			<groupId>de.schildbach.wallet</groupId>
 			<artifactId>integration-android</artifactId>
 			<version>2.0</version>
 		</dependency>

@@ -1,4 +1,4 @@
-Welcome to _Dogecoin Wallet_, a standalone Dogecoin payment app for your Android device!
+Welcome to _Dilmacoin Wallet_, a standalone Dilmacoin payment app for your Android device!
 
 This project contains several sub-projects:
 
@@ -7,10 +7,10 @@ This project contains several sub-projects:
  * __market__:
      App description and promo material for the Google Play app store.
  * __integration-android__:
-     A tiny library for integrating Dogecoin payments into your own Android app
+     A tiny library for integrating Dilmacoin payments into your own Android app
      (e.g. donations, in-app purchases).
  * __sample-integration-android__:
-     A minimal example app to demonstrate integration of Dogecoin payments into
+     A minimal example app to demonstrate integration of Dilmacoin payments into
      your Android app.
 
 You can build all sub-projects at once using Maven:

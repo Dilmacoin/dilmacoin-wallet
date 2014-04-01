@@ -1,23 +1,23 @@
-Dogecoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Dogecoin cüzdanı ilk mobil Dogecoin uygulamasıdır ve muhtemelen en güvenli Dogecoin uygulamasıdır!
+Dilmacoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Dilmacoin cüzdanı ilk mobil Dilmacoin uygulamasıdır ve muhtemelen en güvenli Dilmacoin uygulamasıdır!
 
 İŞLEVLERİ:
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Dogecoin meblağlarının DOGE ve mDOGE olarak gösterilmesi.
+• Dilmacoin meblağlarının HUE ve mHUE olarak gösterilmesi.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
-• NFC, QR kodu veya Dogecoin bağlantıları ile Dogecoin gönderir ve alır.
-• Sık kullanılan Dogecoin adresleri için adres defteri içerir.
+• NFC, QR kodu veya Dilmacoin bağlantıları ile Dilmacoin gönderir ve alır.
+• Sık kullanılan Dilmacoin adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan dogecoin'ler için sistem bildirimleri.
-• Dogecoin bakiyesini görüntüleyen widget.
+• Alınan dilmacoin'ler için sistem bildirimleri.
+• Dilmacoin bakiyesini görüntüleyen widget.
 
-Dogecoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
-http://dogecoin.org
+Dilmacoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
+http://dilmacoin.org
 
-Dogecoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
-https://github.com/langerhans/dogecoin-wallet-new
+Dilmacoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

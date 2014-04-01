@@ -2,10 +2,10 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DOGE, 8位數</item>
-		<item>DOGE, 6位數</item>
-		<item>DOGE, 4位數</item>
-		<item>mDOGE, 2位數</item>
+		<item>HUE, 8位數</item>
+		<item>HUE, 6位數</item>
+		<item>HUE, 4位數</item>
+		<item>mHUE, 2位數</item>
 	</string-array>
 
 </resources>

@@ -1,23 +1,23 @@
-﻿Ayez vos dogecoins toujours avec vous dans votre poche ! Payez rapidement en numérisant un code-QR. En tant que marchant vous recevez les paiements de manière fiable et instantanée. Dogecoin Wallet est la première appli dogecoin mobile et sans doute aussi la plus sécuritaire !
+﻿Ayez vos dilmacoins toujours avec vous dans votre poche ! Payez rapidement en numérisant un code-QR. En tant que marchant vous recevez les paiements de manière fiable et instantanée. Dilmacoin Wallet est la première appli dilmacoin mobile et sans doute aussi la plus sécuritaire !
 
 FONCTIONS :
 
 • Pas d'inscription, de service Web ou de nuage de nécessaire ! Ce portefeuille est décentralisé et de pair-à-pair.
-• Affichage du montant de dogecoin en BTC et mBTC.
+• Affichage du montant de dilmacoin en BTC et mBTC.
 • Conversion de et vers des devises nationales.
-• Envoi et réception des dogecoins via NFC, codes QR ou des URLs dogecoin.
-• Carnet d'adresses pour les adresses dogecoin utilisées régulièrement.
+• Envoi et réception des dilmacoins via NFC, codes QR ou des URLs dilmacoin.
+• Carnet d'adresses pour les adresses dilmacoin utilisées régulièrement.
 • Quand vous êtes hors-ligne vous pouvez quand même payez via Bluetooth.
 • Notification du système pour les pièces reçues.
-• Widget affichant le solde Dogecoin.
+• Widget affichant le solde Dilmacoin.
 
-Vous pouvez en apprendre plus au sujet de Dogecoin sur
-http://dogecoin.org
+Vous pouvez en apprendre plus au sujet de Dilmacoin sur
+http://dilmacoin.org
 
-Si vous voulez contribuer à Dogecoin Wallet, le projet se trouve sur
-https://github.com/langerhans/dogecoin-wallet-new
+Si vous voulez contribuer à Dilmacoin Wallet, le projet se trouve sur
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Dogecoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Dilmacoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

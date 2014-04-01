@@ -1,23 +1,23 @@
-Havu viajn Dogemonojn ĉiam kun vi, en via poŝo! Vi povas pagi per rapide skanado de QR-kodo. Kiel komercisto, vi povas ricevi pagojn fidinde kaj tuj. Dogecoin Wallet estas unua movebla Dogemona aplikaĵo, kaj disputeble ankaŭ la plej sekura!
+Havu viajn Dilmamonojn ĉiam kun vi, en via poŝo! Vi povas pagi per rapide skanado de QR-kodo. Kiel komercisto, vi povas ricevi pagojn fidinde kaj tuj. Dilmacoin Wallet estas unua movebla Dilmamona aplikaĵo, kaj disputeble ankaŭ la plej sekura!
 
 TRAJTOJ:
 
 • Neniu registriĝo, ttt servo aŭ nubo bezonataj! Ĉi monujo estas malcentralizita kaj pajro al pajro.
-• Montro de Dogemona kvanto en DOGE kaj mDOGE.
+• Montro de Dilmamona kvanto en HUE kaj mHUE.
 • Konvertiĝo al kaj de la naciaj valutoj.
-• Sendado kaj ricevo de Dogemono tra NFC, QR-kodoj aŭ Dogemono URLoj.
-• Adreslibro por regule uzataj Dogemonadresoj.
+• Sendado kaj ricevo de Dilmamono tra NFC, QR-kodoj aŭ Dilmamono URLoj.
+• Adreslibro por regule uzataj Dilmamonadresoj.
 • Kiam vi estas senkonekta, vi ankoraŭ povas pagi per Bluetooth.
 • Sistema sciigo por ricevitaj moneroj.
-• Aplikaĵa fenestraĵo por Dogemona saldo.
+• Aplikaĵa fenestraĵo por Dilmamona saldo.
 
-Vi povas trovi pli pri Dogemono ĉe
-http://dogecoin.com
+Vi povas trovi pli pri Dilmamono ĉe
+http://dilmacoin.com
 
-Se vi volas kontribui al Dogecoin Wallet, la projekto lokas ĉe
-https://github.com/langerhans/dogecoin-wallet-new
+Se vi volas kontribui al Dilmacoin Wallet, la projekto lokas ĉe
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Dogecoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Dilmacoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

@@ -1,23 +1,23 @@
-Носите биткоины всегда с собой, в кармане! Платите быстро, сканируя QR-код. Будучи продавцом, получайте платежи быстро и надёжно. Бумажник Dogecoin — первое мобильное приложение для Dogecoin и, возможно, самое безопасное!
+Носите биткоины всегда с собой, в кармане! Платите быстро, сканируя QR-код. Будучи продавцом, получайте платежи быстро и надёжно. Бумажник Dilmacoin — первое мобильное приложение для Dilmacoin и, возможно, самое безопасное!
 
 ВОЗМОЖНОСТИ:
 
 • Не нужна ни регистрация, ни веб-сервис, ни облако! Этот бумажник децентрализован и является p2p.
-• Отображение количества биткоинов в DOGE и mDOGE.
+• Отображение количества биткоинов в HUE и mHUE.
 • Конверсия в и из легитимных валют.
-• Поддержка отправки и получения средств через NFC, QR-коды или Dogecoin URL.
+• Поддержка отправки и получения средств через NFC, QR-коды или Dilmacoin URL.
 • Адресная книга часто используемых адресов.
 • Когда вы не в сети, вы можете платить через Bluetooth.
 • Системные уведомления о получаемых монетах.
-• Виджет для отображения баланса Dogecoin.
+• Виджет для отображения баланса Dilmacoin.
 
-Вы можете узнать больше о Dogecoin на
-http://dogecoin.org
+Вы можете узнать больше о Dilmacoin на
+http://dilmacoin.org
 
-Если вы хотите помочь бумажнику Dogecoin, проект располагается по адресу
-https://github.com/langerhans/dogecoin-wallet-new
+Если вы хотите помочь бумажнику Dilmacoin, проект располагается по адресу
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

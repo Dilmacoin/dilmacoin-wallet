@@ -1,23 +1,23 @@
-Dogecoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Dogecoin Wallet je prvá mobilná Dogecoin aplikácia a preukázateľne aj najbezpečnejšia.
+Dilmacoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Dilmacoin Wallet je prvá mobilná Dilmacoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Dogecoinov v DOGE alebo mDOGE.
-• Prepočet hodnoty Dogecoinov do viacerých cudzích mien.
-• Posielanie a prijímanie Dogecoinov pomocou NFC, QR kódov alebo Dogecoin adries.
-• Adresár pre často používané Dogecoin adresy.
+• Zobrazenie zostatku Dilmacoinov v HUE alebo mHUE.
+• Prepočet hodnoty Dilmacoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Dilmacoinov pomocou NFC, QR kódov alebo Dilmacoin adries.
+• Adresár pre často používané Dilmacoin adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Dogecoinov.
+• Notifikácie v stavovej lište pri prijatí Dilmacoinov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Dogecoine
-http://dogecoin.org
+Viac informácií o Dilmacoine
+http://dilmacoin.org
 
-Ak chcete prispieť do projektu Dogecoin Wallet nájdete ho na adrese
-https://github.com/langerhans/dogecoin-wallet-new
+Ak chcete prispieť do projektu Dilmacoin Wallet nájdete ho na adrese
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 

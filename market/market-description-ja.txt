@@ -3,7 +3,7 @@
 特徴:
 
 • 登録必要なし、ウェブサービスもクラウドもいりません！このウォレットは分散型P2Pです。
-• ドージコインの表示がDOGEとmDOGE。
+• ドージコインの表示がHUEとmHUE。
 • 自国通貨へ・からの変換表示。
 • NFC、QRコード、ドージコインURLでの送金や受取。
 • 良く使うドージコインアドレスのためのアドレスブック。
@@ -12,12 +12,12 @@
 • ドージコイン収支のためのヴィジット。
 
 ドージコインについての詳細は
-http://dogecoin.org
+http://dilmacoin.org
 
 もしドージコインウォレットへの開発協力をご希望なら、プロジェクトはこちら
-https://github.com/langerhans/dogecoin-wallet-new
+https://github.com/schildbach/dilmacoin-wallet-new
 
-This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dogecoin by me.
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Dilmacoin by me.
 Find the original at
 https://play.google.com/store/apps/details?id=de.schildbach.wallet
 
